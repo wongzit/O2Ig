@@ -1,4 +1,4 @@
-# O2Ig v1.0
+# O2I.g v1.0
 ![](O2Ig_full.png)
 
 Create Gaussian input file from Gaussian output file.
