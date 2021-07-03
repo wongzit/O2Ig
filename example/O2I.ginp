@@ -1,0 +1,17 @@
+--------- CPU Core ---------
+8
+
+---------- Memory ----------
+10GB
+
+--------- Chkfile ----------
+o2i_test_file.chk
+
+------ Routine Section -----
+#p uwb97xd/6-31g(d) opt freq guess=(always,mix)
+
+---------- Charge ----------
+0
+
+----------- Spin -----------
+1
