@@ -1,13 +1,11 @@
-# O2I.g v1.0
+# O2I.g v1.1
 ![](O2Ig_full.png)
 
 Create Gaussian input file from Gaussian output file.
 
-**Homepage** https://www.wangzhe95.net/program-o2ig
-
 First release: 2021-07-02
 
-Last update: 2021-07-03
+Last update: 2021-09-07
 
 Author: Zhe Wang
 
